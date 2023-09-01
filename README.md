@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [www.micawurfel.com](www.micawurfel.com)
+- 👨‍💻 All of my projects are available at [www.micawurfel.com](http://www.micawurfel.com)
 
 - 💬 Ask me about **ReactJs**
 
